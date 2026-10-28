@@ -26,6 +26,33 @@ Acceptable approaches at release time include:
 
 When moving the repository, preserve the full commit history. Update any external links, citations, or references (e.g., in manuscripts or Zenodo deposits) to point to the new canonical location under the organization.
 
+## Repository visibility and public release
+
+All repositories — whether on personal accounts or under the BittnerTheoryGroup organization — must remain **private** until public release is authorized (see below). Do not make a repository public without explicit approval from the group lead.
+
+### Pre-publication
+
+Research code, data, notebooks, and computational results must not be released publicly before the associated work has been disclosed through a peer-reviewed journal publication. Premature public release can:
+
+- compromise patent rights and invention disclosure procedures under the University of Houston's intellectual property policy;
+- establish prior art in ways that damage the group's or institution's ability to protect commercially valuable discoveries;
+- breach funder, sponsor, data-use, or collaboration agreements that restrict disclosure timing.
+
+When in doubt, treat unpublished work as confidential and consult the group lead before sharing outside the group.
+
+### Public release at publication
+
+When a manuscript is accepted or published, the corresponding repository may be made public and transferred to the BittnerTheoryGroup organization. The release workflow is:
+
+1. Confirm with the group lead that public release is appropriate and that no IP holds, export controls, or data-use restrictions apply.
+2. Review the repository for credentials, restricted data, or third-party-licensed material that must not be released; remove or redact before making the repository public.
+3. Transfer or publish the repository under BittnerTheoryGroup with an appropriate open-source license (discuss with the group lead if uncertain).
+4. Tag the release, archive with Zenodo, and obtain a DOI as described in the [Research Computing and Paper Production Policy](research-computing-policy.md).
+
+### UH intellectual property policy
+
+All research conducted at the University of Houston is subject to the UH Intellectual Property Policy. Research code, datasets, and computational methods developed using university resources or funding may constitute university intellectual property. Group members should familiarize themselves with the policy and contact the UH Office of Technology Transfer and Innovation ([tti.uh.edu](https://tti.uh.edu)) before publicly releasing any work that may have commercial value or patentable novelty. When in doubt, file an invention disclosure with TTI before public release.
+
 ## Rationale
 
 Personal accounts are governed by individual terms of service and are not subject to the university's institutional agreements, data controls, or security reviews. Work hosted under personal accounts may become inaccessible when a group member departs, and ownership or continuity of the research record may be unclear. Using institutional accounts protects both the researcher and the group's long-term interests.
