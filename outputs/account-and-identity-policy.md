@@ -17,18 +17,14 @@ Personal accounts must not be used as a substitute for institutional accounts on
 
 ## GitHub accounts
 
-Use a GitHub account linked to your **@central.uh.edu** email address for all group repositories. GitHub allows multiple email addresses on a single account; if you already have a personal GitHub account you wish to keep, add your university email as a verified address and set it as the primary address for commits in group contexts, or maintain a separate university-affiliated account for group work.
+Day-to-day development under a personal GitHub account is fine. However, when a paper or project is ready for release — at or before manuscript submission — the repository must be published under the [BittnerTheoryGroup](https://github.com/BittnerTheoryGroup) organization so that it is discoverable, persistent, and not tied to any one individual's account.
 
-All group repositories live under the [BittnerTheoryGroup](https://github.com/BittnerTheoryGroup) organization. Do not create group project repositories under personal accounts.
-
-## Migration of existing work
-
-Projects or repositories created under personal accounts that contain group work must be migrated to the appropriate institutional account or transferred to the BittnerTheoryGroup organization as soon as practicable. Acceptable approaches include:
+Acceptable approaches at release time include:
 
 - **Transfer the repository** to the BittnerTheoryGroup organization via GitHub's repository transfer feature (Settings → General → Transfer ownership).
-- **Fork or re-push** to a new repository under the organization if transfer is not possible.
+- **Fork or re-push** to a new repository under the organization if transfer is not possible or not desired.
 
-When migrating, preserve the full commit history. Update any external links, citations, or references (e.g., in manuscripts or Zenodo deposits) to point to the new canonical location.
+When moving the repository, preserve the full commit history. Update any external links, citations, or references (e.g., in manuscripts or Zenodo deposits) to point to the new canonical location under the organization.
 
 ## Rationale
 
